@@ -1,0 +1,19 @@
+- Distribuce s horizontální fragmentací
+- implementace NoSQL databází
+- CAP teorém. 
+- Big Data management
+	- distribuce, 
+	- škálování
+	- replikace
+	- transakce. 
+- Paralelní a distribuované zpracování rozsáhlých dat
+	- MapReduce. 
+- Úložiště typu klíč - hodnota. 
+- Sloupcová úložiště. 
+- Dokumentová úložiště. 
+- Modely pro fulltextové dotazování 
+	- vektorový, booleovský model
+	- uspořádání odpovědí, top-k operátor. 
+- Podobnostní dotazy v multimediálních databázích
+	- metrické indexační metody. 
+- Techniky vizualizace dat.

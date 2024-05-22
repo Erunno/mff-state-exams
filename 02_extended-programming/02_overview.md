@@ -1,0 +1,27 @@
+- Moderní konstrukce a pokročilé aspekty programovacích jazyků 
+- Generické programování a metaprogramování
+	- generika a šablony
+	- politiky 
+	- traits
+	- typová dedukce
+	- reflexe. 
+- Výjimky a bezpečné programování v prostředí s výjimkami. 
+- Implementace objektových vlastností
+	- běhová podpora
+	- volací konvence
+	- garbage collection. 
+- Vliv moderních konstrukcí na výkonnost kódu. 
+- Paralelní programování, 
+	- Amdahlův zákon
+	- synchronizační primitiva
+	- task stealing. 
+- Návrhové vzory a jejich využití. 
+- Skriptovací jazyky, prototype-based jazyky. 
+- Domain Specific Languages. 
+- Funkcionální programování. 
+- Principy tvorby kvalitního kódu 
+	- doporučené postupy
+	- Refaktorizace
+- Testování funkčnosti
+	- hledání chyb
+	- monitorování programů.

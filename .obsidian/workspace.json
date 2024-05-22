@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "02_extended-programming/02_overview.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "045dd8ba7188f966",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "14d63207df91b455",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "02_extended-programming/02_overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "02_extended-programming/02_overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "02_extended-programming/02_overview.md"
               }
             }
           }
@@ -162,7 +148,14 @@
   },
   "active": "d8f7abb4409860cf",
   "lastOpenFiles": [
-    "create a link.md",
-    "Welcome.md"
+    "Untitled.canvas",
+    "README.md",
+    "07_processing-large-and-unstructured-data/07_overview.md",
+    "03_software-technologies/03_overview.md",
+    "02_extended-programming/02_overview.md",
+    "asd.md",
+    "07_processing-large-and-unstructured-data",
+    "03_software-technologies",
+    "02_extended-programming"
   ]
 }
